@@ -1,3 +1,4 @@
+import pyfiglet # Use this!
 import sys
 import random
 from time import sleep
